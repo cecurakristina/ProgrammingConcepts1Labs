@@ -1,4 +1,4 @@
-# Programming Concepts 1 – Lab Assignments
+# Programming Concepts 1 – Java Lab Assignments
 
 This repository contains lab assignments and practice exercises from my first programming course, **Programming Concepts 1**. These projects were completed as part of my coursework and cover foundational programming concepts using Java.
 
